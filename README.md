@@ -1,1 +1,1 @@
-# redis-clone
+# A simple database in C
